@@ -6,7 +6,7 @@
 
 ### 🎉 New features
 
-- Add `Date` type converter.
+- Add `Date` type converter. ([#26148](https://github.com/expo/expo/pull/26148) by [@alanjhughes](https://github.com/alanjhughes))
 
 ### 🐛 Bug fixes
 
