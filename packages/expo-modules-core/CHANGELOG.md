@@ -6,6 +6,8 @@
 
 ### 🎉 New features
 
+- Add `Date` type converter.
+
 ### 🐛 Bug fixes
 
 ### 💡 Others
