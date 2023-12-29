@@ -165,6 +165,11 @@ android {
     pickFirst "lib/**/libfbjni.so"
     // AGP will give priority of libc++_shared coming from App modules.
     pickFirst "**/libc++_shared.so"
+
+    pickFirst "lib/**/libfb.so"
+    pickFirst "lib/**/libfabricjni.so"
+    pickFirst "lib/**/libfolly_runtime.so"
+    pickFirst "lib/**/libglog.so"
   }
 }
 
